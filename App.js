@@ -78,7 +78,7 @@ export default class App extends React.Component{
       },
       text2:{
         color: "#FFFFFF",
-        backgroundColor: "#21F511",
+        backgroundColor: "#263511",
         marginTop: 10,
         fontSize: 20,
         paddingVertical: 10,
